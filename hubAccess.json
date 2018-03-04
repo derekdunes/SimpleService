@@ -1,0 +1,23 @@
+{
+    "result":[
+        {
+            "firstname": "Emmanuel",
+            "lastname": "Nwabueze",
+            "title": "Mr",
+            "jobtitle": "Developer",
+            "contactnumber": "+2347061098576",
+            "emailaddress": "emmanuelNwabueze26@gmail.com",
+            "role":"Intern",
+            "groups": ["Android","gasgo"]
+        },{
+            "firstname": "Derek",
+            "lastname": "Mbah",
+            "title": "Mr",
+            "jobtitle": "Developer",
+            "contactnumber": "+2348169122379",
+            "emailaddress": "mbahderek@gmail.com",
+            "role":"Corper",
+            "groups": ["Android","gasgo"]
+        }
+    ]
+}
